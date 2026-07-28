@@ -13,7 +13,7 @@ After closing my own business a few years ago, I chose to return to IT support. 
 
 ## Objective
 
-**Zero Day Café** is where I share what I’ve learned and what I’m still discovering. The aim is simple: to make cybersecurity and IT easier to understand and far less intimidating.
+**Photo IT Pro** is where I share what I’ve learned and what I’m still discovering. The aim is simple: to make cybersecurity and IT easier to understand and far less intimidating.
 
 Whether you’re a home user looking for practical ways to stay safe online, an IT enthusiast exploring new tools, or someone just starting out in tech, I hope you find something here that helps you stay informed, secure, and confident in your digital life.
 
