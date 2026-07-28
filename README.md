@@ -49,6 +49,7 @@ Whether you’re a home user looking for practical ways to stay safe online, an 
 
 ### Microsoft
 <div>
+    <img src="https://img.shields.io/badge/Microsoft_365-MD--102-503986?style=for-the-badge&logo=microsoft365&logoColor=white" />
     <img src="https://img.shields.io/badge/Azure-AZ--900-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white" />
     <img src="https://img.shields.io/badge/Security-SC--900-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/Microsoft_365-MS--900-503986?style=for-the-badge&logo=microsoft365&logoColor=white" />
