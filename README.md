@@ -61,6 +61,7 @@ Whether you’re a home user looking for practical ways to stay safe online, an 
     <img src="https://img.shields.io/badge/WatchGuard-Network_Security-CC0000?style=for-the-badge" />
     <img src="https://img.shields.io/badge/WatchGuard-Endpoint_Security-CC0000?style=for-the-badge" />
     <img src="https://img.shields.io/badge/3CX-Basic_Engineer_V20-007ACC?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/3CX-Advanced_Engineer_V20-007ACC?style=for-the-badge" />
     <img src="https://img.shields.io/badge/ITIL-Foundation_V3-002E5D?style=for-the-badge" />
 </div>
 
