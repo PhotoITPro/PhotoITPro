@@ -32,9 +32,9 @@ Whether you’re a home user looking for practical ways to stay safe online, an 
 
 ### Microsoft Cloud & Security
 <div>
+    <img src="https://img.shields.io/badge/-Intune-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Microsoft_Defender-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Intune-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Azure_AD-0072C6?&style=for-the-badge&logo=microsoftazure&logoColor=white" />
 </div>
 
@@ -66,7 +66,7 @@ Whether you’re a home user looking for practical ways to stay safe online, an 
 </div>
 
 ## Projects
-- **Zero Day Café**: Ongoing blog and resource for IT and Cybersecurity awareness.
+- **Photo IT Pro**: Ongoing blog and resource for IT and Cybersecurity awareness.
 <!--
 **PhotoITPro/PhotoITPro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
