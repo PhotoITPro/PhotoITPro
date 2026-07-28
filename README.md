@@ -7,9 +7,9 @@
 
 I’ve spent more than 3 decades working in IT, across a world that never stops changing. My background covers the design, configuration, and management of Windows environments, including Active Directory, DNS, DHCP, and all the behind-the-scenes services that keep networks running. Over the years I’ve gained plenty of hands-on experience with Group Policy, SCCM, and more recently, Microsoft 365, Azure, and Intune.
 
-Security has always been a big part of what I do. From tightening up network access and patching policies to managing modern cloud security through Microsoft Defender and Conditional Access, I’ve seen how quickly threats evolve, and how important it is to keep up.
+Endpoint management is the core of what I do now. Rolling out and locking down devices through Intune, tightening network access, keeping on top of patching, and running cloud security through Microsoft Defender and Conditional Access. I've watched how fast threats move, and how much of that comes down to keeping devices properly managed.
 
-After closing my own business a few years ago, I chose to return to IT support. It wasn’t about stepping back but reconnecting with the technology itself, rebuilding my knowledge, and keeping pace with the shift toward cloud and zero-trust security models. Since then, I’ve earned new certifications in Microsoft 365, Azure, Security, and AI and continued developing my skills around modern IT, Firewalls and defence-in-depth practices.
+I closed my own business a few years ago and came back to IT support. I wanted to reconnect with the technology, rebuild my knowledge, and keep pace with the shift toward cloud and zero-trust security. Since then I've picked up certifications in Microsoft 365, Azure, Security, and AI, and kept building my skills in Intune, endpoint management, firewalls, and defence-in-depth.
 
 ## Objective
 
