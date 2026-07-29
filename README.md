@@ -32,17 +32,17 @@ Whether you’re a home user looking for practical ways to stay safe online, an 
 
 ### Microsoft Cloud & Security
 <div>
-    <img src="https://img.shields.io/badge/-Intune-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Microsoft-Intune-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Microsoft_365-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Microsoft_Defender-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Azure_AD-0072C6?&style=for-the-badge&logo=microsoftazure&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Entra-ID-0072C6?&style=for-the-badge&logo=microsoftazure&logoColor=white" />
 </div>
 
 ### Network & Communication
 <div>
     <img src="https://img.shields.io/badge/-WatchGuard-CC0000?&style=for-the-badge&logo=watchguard&logoColor=white" />
     <img src="https://img.shields.io/badge/-3CX-007ACC?&style=for-the-badge&logo=3cx&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Ubiquiti-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
 </div>
 
 ## Certifications
